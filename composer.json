@@ -1,0 +1,13 @@
+{
+    "name": "pwnc0re/hack-orm",
+    "description": "Example of ORM wrote in the Hack programming language.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William",
+            "email": "william@pwnc0re.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
